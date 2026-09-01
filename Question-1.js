@@ -8,5 +8,4 @@ function describeValue(value){
     }
 }
 
-
-// console.log(describeValue("0"));
+ console.log(describeValue("0"));
